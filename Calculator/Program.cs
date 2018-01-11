@@ -10,7 +10,8 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Line 2 by manoj noida");
+            Console.WriteLine("Line 4 by manoj noida");
+            Console.WriteLine("Line 3 by manoj noida");
             Console.WriteLine("Line 2 by manoj noida");
             Console.WriteLine("Line 1 by manoj noida");
             Console.WriteLine("Line 1 by manoj del");
